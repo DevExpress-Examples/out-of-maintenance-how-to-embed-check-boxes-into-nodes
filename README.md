@@ -1,3 +1,3 @@
 # How to Embed Check Boxes into Nodes
 
-![](~/images/checking-nodes.png)
+![](/images/checking-nodes.png)
